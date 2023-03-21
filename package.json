@@ -1,0 +1,19 @@
+{
+  "name": "lamed-npm",
+  "version": "1.0.0",
+  "description": "Random String messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monroyluis/lamed-npm.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monroyluis/lamed-npm/issues"
+  },
+  "homepage": "https://github.com/monroyluis/lamed-npm#readme"
+}
